@@ -1,4 +1,4 @@
-# 🚀 burppeter7-lab & sys-init-8
+# 🚀 sys-init-8 & burppeter7-lab
 
 > Zwei Legenden. Eine Mission. Unklare Anforderungen.
 
